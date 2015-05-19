@@ -13,7 +13,7 @@ The main difference is the way every concept is presented:
 
 The idea is to help students, especially those with a **coding backgroud** to better understand the concepts and to help the reader to think in an **implementative way** 
 
-Presently I am working on a sort of *test topic* regarding [Introduction to Measure Theory](LectureNores_Math/intro1.ipynb) but I will soon switch to converting some of the lecture notes I have developed for my lessons, regarding **Deep Learning** to this format. 
+Presently I am working on a sort of *test topic* regarding [Introduction to Measure Theory](MeasureTheory/Intro1.ipynb) but I will soon switch to converting some of the lecture notes I have developed for my lessons, regarding **Deep Learning** to this format. 
 
 Hopefully I will soon be able test this method in a lesson 
 
